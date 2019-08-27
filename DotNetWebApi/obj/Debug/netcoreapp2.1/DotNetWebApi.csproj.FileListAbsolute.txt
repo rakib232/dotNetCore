@@ -1,0 +1,13 @@
+C:\Users\RAMA\source\repos\DotNetWebApi\DotNetWebApi\bin\Debug\netcoreapp2.1\DotNetWebApi.deps.json
+C:\Users\RAMA\source\repos\DotNetWebApi\DotNetWebApi\bin\Debug\netcoreapp2.1\DotNetWebApi.runtimeconfig.json
+C:\Users\RAMA\source\repos\DotNetWebApi\DotNetWebApi\bin\Debug\netcoreapp2.1\DotNetWebApi.runtimeconfig.dev.json
+C:\Users\RAMA\source\repos\DotNetWebApi\DotNetWebApi\bin\Debug\netcoreapp2.1\DotNetWebApi.dll
+C:\Users\RAMA\source\repos\DotNetWebApi\DotNetWebApi\bin\Debug\netcoreapp2.1\DotNetWebApi.pdb
+C:\Users\RAMA\source\repos\DotNetWebApi\DotNetWebApi\obj\Debug\netcoreapp2.1\DotNetWebApi.csproj.CoreCompileInputs.cache
+C:\Users\RAMA\source\repos\DotNetWebApi\DotNetWebApi\obj\Debug\netcoreapp2.1\DotNetWebApi.RazorAssemblyInfo.cache
+C:\Users\RAMA\source\repos\DotNetWebApi\DotNetWebApi\obj\Debug\netcoreapp2.1\DotNetWebApi.RazorAssemblyInfo.cs
+C:\Users\RAMA\source\repos\DotNetWebApi\DotNetWebApi\obj\Debug\netcoreapp2.1\DotNetWebApi.AssemblyInfoInputs.cache
+C:\Users\RAMA\source\repos\DotNetWebApi\DotNetWebApi\obj\Debug\netcoreapp2.1\DotNetWebApi.AssemblyInfo.cs
+C:\Users\RAMA\source\repos\DotNetWebApi\DotNetWebApi\obj\Debug\netcoreapp2.1\DotNetWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\RAMA\source\repos\DotNetWebApi\DotNetWebApi\obj\Debug\netcoreapp2.1\DotNetWebApi.dll
+C:\Users\RAMA\source\repos\DotNetWebApi\DotNetWebApi\obj\Debug\netcoreapp2.1\DotNetWebApi.pdb
